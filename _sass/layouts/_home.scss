@@ -2,6 +2,8 @@
 // Home page — two-column grid, editorial feel
 // =============================================================
 
+
+
 .home-grid {
   display: grid;
   grid-template-columns: 1fr 340px;
@@ -13,6 +15,15 @@
     gap: var(--space-8);
   }
 }
+
+
+.news-wide {
+  grid-column: 1 / -1;
+  width: 100%;
+}
+
+
+
 
 .home-content {
   min-width: 0;

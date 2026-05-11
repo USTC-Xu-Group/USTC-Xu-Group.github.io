@@ -41,9 +41,9 @@ Basic PI info (name, photo, email, links) now lives in `_config.yml`. The `pi.ym
 
 ```yaml
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
+    - "(2021) Ph.D. Physics, Peking University"
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
+    - "(2021) Ph.D. Physics, Peking University"
 ```
 
 ## 3. Organize Images (Optional)

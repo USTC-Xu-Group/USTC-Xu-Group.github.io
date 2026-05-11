@@ -11,9 +11,9 @@ photo: headshot.jpg  # place your photo in images/
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
+  google_scholar: "https://orcid.org/0000-0002-7531-6873"
+  github: "https://github.com/USTC-Xu-Group"
+  researchgate: ""
   orcid: ""
   twitter: ""
   linkedin: ""
@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Academic webpage of Dr. Zehua Xu"
 baseurl: ""
 url: ""
 
@@ -36,13 +36,13 @@ analytics:
 # STEP 4: Choose Your Pages (comment out any you don't need)
 # ============================================================
 nav_pages:
-  - name: about
+  - name: team
+  - name: research
+  - name: teaching
   - name: publications
   - name: talks
-  - name: research
   - name: software
-  - name: team
-  - name: teaching
+  - name: about
   - name: blogs
 
 # ============================================================

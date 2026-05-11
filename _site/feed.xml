@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zehua Xu</title>
-    <description>Academic webpage of Dr. Richard Feynman</description>
+    <description>Academic webpage of Dr. Zehua Xu</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 11 May 2026 14:19:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 16:26:12 +0800</lastBuildDate>
     
     <item>
       <title>Great Mathematicians and Physicists</title>
