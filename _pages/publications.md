@@ -92,7 +92,6 @@ All publications in <a href="https://inspirehep.net/authors/1852427?ui-citation-
 
 <h3>Proceedings</h3>
 
-{% bibliography --query @inproceedings %}
 
 
 
