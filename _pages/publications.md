@@ -26,8 +26,6 @@ permalink: /publications/
 
 <h3>Selected Articles (Prior to Joining USTC)</h3>
 
-{% bibliography --query @article %}
-
 
 <ul>
     <li class="MsoNormal"> R. Aaij <span style="font-size: 12.0pt"> <i style="mso-bidi-font-style:normal">et al.</i> (LHCb Collaboration)</span> &quot;
