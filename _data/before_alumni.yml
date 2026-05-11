@@ -1,0 +1,48 @@
+# Former lab members.
+# Each entry needs: name, duration, info
+# Optional: photo, email
+
+
+- name: Zifan Li 
+  photo: team/zifan-li.svg
+  duration: 2025
+  info: PhD student at Peking University
+
+- name: Zongheng Zhu 
+  photo: team/zongheng-zhu.svg
+  duration: 2025
+  info: PhD student at The Chinese University of Hong Kong
+
+- name: Po Leung Wong 
+  photo: team/po-leung-wong.svg
+  duration: 2025
+  info: PhD student at The Hong Kong University of Science and Technology
+
+- name: Yuxiang Song (assisted supervision)
+  photo: team/yuxiang-song.svg
+  duration: 2024-2025
+  info: PhD student at Tsinghua University
+
+- name:  Yinghua Tan (assisted supervision)
+  photo: team/yinghua-tan.svg
+  duration: 2024-2025
+  info: PostDoc at University of Chinese Academy of Sciences
+
+- name: Zihan Gao 
+  photo: team/zihan-gao.svg
+  duration: 2024
+  info: PhD student at Université Paris-Saclay
+
+- name: Georgios Demetriou 
+  photo: team/georgios-demetriou.svg
+  duration: 2023
+  info: PhD student at École Polytechnique Fédérale de Lausanne
+
+- name: Jessy Daniel (assisted supervision)
+  photo: team/jessy-daniel.svg
+  duration: 2021-2024
+  info: PostDoc at CNRS, Institut de Physique des 2 Infinis de Lyon
+
+
+
+

@@ -17,6 +17,7 @@
   {% endfor %}
   {% endif %}
 
+  {% comment %}
   <div class="pub-actions">
     {% if bibtest %}
     <a href="{{ site.url }}{{ site.baseurl }}/papers/{{ entry.file }}" target="_blank" class="btn-pill btn-pdf">PDF</a>
@@ -38,6 +39,7 @@
     <button class="btn-pill btn-abstract" data-toggle-target="abs-{{ entry.key }}">Abstract</button>
     {% endif %}
   </div>
+  {% endcomment %}
 
   {% if entry.abstract %}
   <div class="pub-collapse" id="bib-{{ entry.key }}">

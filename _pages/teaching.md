@@ -7,6 +7,7 @@ permalink: /teaching/
 
 ## Teaching
 
+<!--
 <div class="section-card">
 <ul>
 <li>Physics 1, 2, 3: The Feynman Lectures on Physics (1961&#8211;63) <a href="https://www.feynmanlectures.caltech.edu/">Textbook here!</a></li>
@@ -15,3 +16,4 @@ permalink: /teaching/
 <li>Physics X: Informal undergraduate Q&amp;A sessions (1961&#8211;78)</li>
 </ul>
 </div>
+-->

@@ -4,8 +4,17 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(2021) Ph.D. Physics, Peking University"
     - "(2016) B.S. Nucleaer Technology and Computing Science, Wuhan University"
+    - "(2021) Ph.D. Physics, Peking University"
   educationshort:
     - "(2021) Ph.D. Physics, PKU"
     - "(2016) B.S. Nuclear Tech.(1st) and C.S. (2nd), WHU"
+  workexperience:
+    - "2021-2024: Postdoc, Laboratoire de Physique de Clermont Auvergne, Centre national de la recherche scientifique(CNRS)"
+    - "2024-2026: Senior Research Fellow, European Organization for Nuclear Research (CERN)"
+    - "2026-NOW: Professor of Physics, University of Science and Technology of China (USTC)"
+  workexperienceshort:
+    - "2021-2024: Postdoc, LPCA, CNRS"
+    - "2024-2026: Senior Research Fellow, CERN"
+
+

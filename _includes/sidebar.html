@@ -22,8 +22,54 @@
 {% endfor %}
 </ul>
 {% endif %}
+{% if site.data.pi[0].workexperienceshort %}
+<ul style="text-align: left; margin-top: var(--space-4); list-style: none; padding-left: 0;">
+{% for education in site.data.pi[0].workexperienceshort %}
+<li style="font-size: 0.875rem; color: var(--text-secondary); padding: var(--space-1) 0;">{{ education | replace: "-","&#8211;" }}</li>
+{% endfor %}
+</ul>
+{% endif %}
 </div>
 
+
+
+<div class="profile-card">
+
+  <ul class="useful-links">
+
+    <li>
+      <a href="https://indico.pnp.ustc.edu.cn/event/6452/" target="_blank" rel="noopener">
+        Group Internal Resources
+      </a>
+    </li>
+
+    <li>
+      <a href="https://lhcb.web.cern.ch/" target="_blank" rel="noopener">
+        LHCb Experiment
+      </a>
+    </li>
+
+    <li>
+      <a href="https://home.cern/" target="_blank" rel="noopener">
+        CERN
+      </a>
+    </li>
+
+    <li>
+      <a href="https://indico.pnp.ustc.edu.cn/category/10/" target="_blank" rel="noopener">
+        STCF
+      </a>
+    </li>
+
+  </ul>
+
+
+</div>
+
+
+
+
+<!--  
 <div class="section-card" style="margin-top: var(--space-6);">
 <h4 style="margin-top: 0;">News</h4>
 <div class="news-timeline">
@@ -36,3 +82,4 @@
 </div>
 <p style="margin-top: var(--space-4);"><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">See all news &rarr;</a></p>
 </div>
+-->

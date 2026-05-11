@@ -7,6 +7,7 @@ permalink: /about/
 
 ## About
 
+<!--
 <div class="section-card">
 <div class="pi-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="pi-photo" alt="{{ site.name }}" loading="lazy">
@@ -30,6 +31,7 @@ permalink: /about/
 </div>
 </div>
 </div>
+-->
 
 {% if site.data.grants %}
 <div class="section-card">
@@ -53,6 +55,8 @@ permalink: /about/
 </div>
 {% endif %}
 
+
+<!--
 {% if site.data.people %}
 <div class="section-card">
 <h3>Students and Mentoring</h3>
@@ -63,7 +67,9 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+-->
 
+<!--
 {% if site.data.funders %}
 <div class="section-card">
 <h4>Sponsors</h4>
@@ -74,3 +80,4 @@ permalink: /about/
 </div>
 </div>
 {% endif %}
+-->
