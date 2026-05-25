@@ -14,7 +14,7 @@ permalink: /talks/
     <li class="MsoNormal"> 
             <i>Zehua Xu</i>,
             &quot; LHCb overview &quot;, 
-            <a href="https://indico.cern.ch/event/1291157/contributions/5876960/"> 第6届LHCb前沿物理研讨会 </a>, 
+            <a href="https://indico.ihep.ac.cn/event/29125/"> 第6届LHCb前沿物理研讨会 </a>, 
             in Guangzhou, China,
             June 22-25, 2026
     </li>
