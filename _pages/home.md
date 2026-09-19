@@ -21,9 +21,9 @@ permalink: /
 </div>
 
 Collider experimental physics studies fundamental particles and their interactions through high-energy particle collisions. 
-Our research focuses on heavy-flavour and hadron physics at LHCb at LHC, including the spectroscopy, production, and CP violation of charm and beauty hadrons. 
+Our research focuses on heavy-flavour and hadron physics at [**LHCb**](https://lhcb.web.cern.ch/) at LHC at [**CERN**](https://home.cern/), including the spectroscopy, production, semi-leptonic decays and CP violation of charm and beauty hadrons. 
+In addtion, we conduct R&D on high-rate micro-pattern gaseous detectors for the LHCb MUON Upgrade, in close international collaboration with Italian/CERN partners.
 We also contribute to detector and physics studies for the future STCF experiment, with emphasis on precision measurements and detector-calibration requirements. 
-As part of the USTC detector team, we conduct R&D on high-rate micro-pattern gaseous detectors for the LHCb MUON Upgrade, in close international collaboration with Italian partners.
 [Building on previous experience with scintillating-fibre (SciFi) tracking technology.]
 
 
