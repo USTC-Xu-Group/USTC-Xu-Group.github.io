@@ -30,10 +30,14 @@ We also contribute to detector and physics studies for the future STCF experimen
 <div class="section-card" style="margin-top: var(--space-6);">
 <h4 style="margin-top: 0;">News</h4>
 <div class="news-timeline">
-{% for article in site.data.news limit:3 %}
+{% for article in site.data.news limit:2 %}
 <div class="news-item">
-<div class="news-date">{{ article.date }}
-<div class="news-headline">{{ article.headline }}
+<div class="news-date">
+{{ article.date }}
+</div>
+<div class="news-headline">
+<strong>{{ article.headline }}</strong>
+</div>
 </div>
 {% endfor %}
 </div>

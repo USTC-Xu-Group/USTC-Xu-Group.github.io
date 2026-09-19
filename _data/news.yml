@@ -1,9 +1,35 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
-# Each entry needs: date, headline
+# Each entry needs: date, headline. Optional fields: content, image, link.
+# Example:
+# - date: 19 September, 2026
+#   headline: "News headline"
+#   content: "A short description of the news."
+#   image: "/images/news/example.jpg"
+#   link: "https://example.com/"
+
+- date: 13 September, 2026 
+  headline: "Dedicated Workshop on LHCb MUON Upgrade II in USTC"  
+  content: |
+    LHCb collaborators of China recently held a dedicated workshop on the MUON Upgrade II, bringing together researchers to discuss the future development of the LHCb MUON system and the potential contributions from the Chinese groups.
+
+    The workshop focused on several key aspects of the upgrade, including the scientific importance of MUON Upgrade II, detector technology strategies, R&D priorities, and major milestones in the upgrade programme. Participants exchanged views on the challenges posed by the high-luminosity LHC environment and discussed possible technological solutions for achieving the required detector performance and long-term operational stability.
+
+    The workshop also provided an opportunity to discuss the overall timeline and key decision points of the upgrade, helping the participating groups better understand the priorities and coordinate their future R&D activities. The discussions will further support collaboration among the LHCb groups in China and contribute to the development of the MUON Upgrade II programme.
+  
+  image: "/images/news/LHCbMUON-internal-discussion.jpg"
+
 
 - date: 14 June, 2026 
-  headline: "LHCb Deputy Spokesperson Patrick Robbe Pays Visit to USTC" 
+  headline: "LHCb Deputy Spokesperson Patrick Robbe Pays Visit to USTC"  
+  content: |
+    Patrick Robbe, Deputy Spokesperson of the LHCb Collaboration, visited the University of Science and Technology of China (USTC). 
+
+    During his visit, Patrick delivered a seminar entitled “Opportunities and Challenges of LHCb Upgrade II,” presenting the prospects of the LHCb physics programme and the major challenges associated with the next phase of the experiment. To support the newly established USTC LHCb group, Patrick specially rearranged his travel plans and changed his flight to visit USTC, travelling from Mongolia to Hefei.
+
+    His visit provided an important opportunity for the group to engage with the LHCb Collaboration and to discuss future research activities, detector development, and potential contributions to the LHCb Upgrade II programme.
+  
+  image: "/images/news/Patrick.jpg"
 
 - date: 03 March, 2026 
   headline: "Dr. Zehua Xu joins the University of Science and Technology of China as a Special Professor of Physics"

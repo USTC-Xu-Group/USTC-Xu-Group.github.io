@@ -12,10 +12,8 @@ permalink: /publications/
 
 <div class="section-card" id="pubList">
 
-<h3>Articles</h3>
+<h3>Selected Articles</h3>
 
-
-<h3>Proceedings</h3>
 
 </div>
 

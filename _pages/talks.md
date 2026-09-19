@@ -8,7 +8,7 @@ permalink: /talks/
 ## Talks
 
 <div class="section-card" id="pubList">
-<h3>Invited Talks </h3>
+<h3>Selected Talks </h3>
 
 <ul>
     <li class="MsoNormal"> 
@@ -19,8 +19,6 @@ permalink: /talks/
             June 22-25, 2026
     </li>
 </ul>
-
-<h3>Regular Talks </h3>
 
 </div>
 

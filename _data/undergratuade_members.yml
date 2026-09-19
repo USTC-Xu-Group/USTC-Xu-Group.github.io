@@ -3,6 +3,9 @@
 # Optional: email, website, scholar, github, researchgate, cv
 # Photos go in images/ or images/team/
 
+- name: Luokuan Feng 
+  photo: team/LuokuangFeng.jpg
+  info: Inte Student
 
 - name: Xinyu Zang 
   photo: team/XinyuZang.jpg
