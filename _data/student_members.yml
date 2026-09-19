@@ -3,11 +3,17 @@
 # Optional: email, website, scholar, github, researchgate, cv
 # Photos go in images/ or images/team/
 
+- name: Hongkun Mo (2023)
+  photo: team/HongkunMo.jpg
+  info: PhD Student
 
 - name: Hao Jiang (2026)
   photo: team/hao-jiang.jpg
   info: MRes Student
 
+- name: Luokuan Feng  (2027)
+  photo: team/LuokuangFeng.jpg
+  info: MRes Student
 
 
 
