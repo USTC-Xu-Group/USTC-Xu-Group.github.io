@@ -48,7 +48,7 @@ Our group investigates CP violation in heavy-flavour decays at the LHCb experime
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/RD.png" class="research-thumb" alt="Superfluid helium">
 <div class="research-body">
-<h4 class="research-title">Semileptonic Decays: $R(D^{(*)})$ and $R(J/\psi)$</h4>
+<h4 class="research-title">Semileptonic Decays</h4>
 <p class="research-desc">
 We investigate semileptonic $B$-meson decays at the LHCb experiment, focusing on the measurements of $R(D^{(*)})$ and $R(J/\psi)$, which test lepton flavour universality in $b\to c\ell\nu$ transitions. 
 These observables provide powerful probes of the Standard Model and are sensitive to possible contributions from **New Physics**. 
