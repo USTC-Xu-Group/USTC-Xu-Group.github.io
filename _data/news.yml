@@ -8,6 +8,20 @@
 #   image: "/images/news/example.jpg"
 #   link: "https://example.com/"
 
+
+- date: 24 October, 2026
+  headline: "CERN EP-DT Head Burkhard Schmidt Visits USTC"
+  content: |
+    Burkhard Schmidt, Head of CERN’s Experimental Physics Detector Technologies (EP-DT) group, visited the University of Science and Technology of China (USTC) on 24 October 2026.
+
+    During his visit, Schmidt toured several laboratories dedicated to micropattern gaseous detectors, multigap resistive plate chambers (MRPCs), scintillator detectors, and chip design. The visits provided an opportunity to learn about detector research and development at USTC and exchange views with the researchers involved.
+
+    Schmidt also met with the USTC LHCb team to discuss their research activities and exchange ideas on detector development and collaboration within the LHCb experiment.
+
+  image: "/images/news/Burkhard.jpg"
+
+
+
 - date: 13 September, 2026 
   headline: "Dedicated Workshop on LHCb MUON Upgrade II in USTC"  
   content: |
