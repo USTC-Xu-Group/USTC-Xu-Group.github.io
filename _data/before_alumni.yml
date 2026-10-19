@@ -3,17 +3,17 @@
 # Optional: photo, email
 
 
-- name: Zifan Li (Summer student) 
+- name: Zifan Li - (summer student) 
   photo: team/zifan-li.svg
   duration: 2025
   info: PhD student at Peking University
 
-- name: Zongheng Zhu (Summer student)
+- name: Zongheng Zhu - (summer student)
   photo: team/zongheng-zhu.svg
   duration: 2025
   info: PhD student at The Chinese University of Hong Kong
 
-- name: Po Leung Wong (Summer student)
+- name: Po Leung Wong (summer student)
   photo: team/po-leung-wong.svg
   duration: 2025
   info: PhD student at The Hong Kong University of Science and Technology
@@ -28,12 +28,12 @@
   duration: 2024-2025
   info: PostDoc at University of Chinese Academy of Sciences
 
-- name: Zihan Gao (Summer student)
+- name: Zihan Gao (summer student)
   photo: team/zihan-gao.svg
   duration: 2024
   info: PhD student at Université Pierre et Marie Curie
 
-- name: Georgios Demetriou (Summer student)
+- name: Georgios Demetriou (summer student)
   photo: team/georgios-demetriou.svg
   duration: 2023
   info: PhD student at École Polytechnique Fédérale de Lausanne
